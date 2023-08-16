@@ -1,5 +1,0 @@
-{{#user}
-Name: Habiba Sabrina Tithi
-Skills: HTML, CSS, JS, React.js, Next.js, node.js, mongodb, express.js
-Email: habibasabrina92@gmail.com
-{{/user}}
